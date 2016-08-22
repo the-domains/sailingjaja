@@ -1,0 +1,14 @@
+layout_spectrum: 0.02722688
+color:
+  saturation: 0.6344086
+  lightness: 0.1129032
+  brandStrength: 0.3215016
+  brandColors:
+    - '#28292E'
+    - '#F2F2F2'
+    - '#A2A2A4'
+    - '#596074'
+    - '#1327A7'
+  rhythmicContrast: 0.750896
+typography_spectrum: 0.5771836
+name: SailingJaJa
