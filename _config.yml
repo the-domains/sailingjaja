@@ -1,4 +1,4 @@
-layout_spectrum: 0.02722688
+typography_spectrum: 0.5771836
 color:
   saturation: 0.6344086
   lightness: 0.1129032
@@ -10,5 +10,8 @@ color:
     - '#596074'
     - '#1327A7'
   rhythmicContrast: 0.750896
-typography_spectrum: 0.5771836
+layout_spectrum: 0.02722688
+author:
+  name: Michael Grassman
+  email: michael.grassman@gmail.com
 name: SailingJaJa
